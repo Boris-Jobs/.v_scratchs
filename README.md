@@ -1,10 +1,6 @@
-# wode_LLMs_practice
+# .v_scratchs
 
-
-每一小节的标题是Repository里对应的文件夹名称.  
-最大标题: \# 本repository名;  
-第二标题: \#\# 本repository下的子项目名;  
-第三标题: \#\#\# 各子项目下的问题名. 
+Hi, this is .v, this repository is a practical guidence for coding of llm/ml/rl/etc.
 
 反向传播最佳教程: [李宏毅反向传播](https://www.bilibili.com/video/BV1Wv411h7kN/?p=14&share_source=copy_web&vd_source=fa770b2848370154ff797b0ece7eae1b)
 
